@@ -91,7 +91,7 @@ Berisi form kontak untuk mengirim pesan kepada Perunggu.
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/allendevianaayu2812-jpg/UTS-PEMROGRAMAN-WEB
+   https://github.com/allendevianaayu2812-jpg/UTS-PEMROGRAMAN-WEB-REVISI..git
    ```
 
 2. Masuk ke folder proyek:
